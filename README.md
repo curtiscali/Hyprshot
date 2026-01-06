@@ -29,7 +29,7 @@ Activate wayland overlay as described in [README](https://github.com/bsd-ac/wayl
 ```
 
 ### Fedora
-As of Fedora 40, hyprshot can be installed from the [Hyprland COPR Repository](https://copr.fedorainfracloud.org/coprs/solopasha/hyprland)
+As of Fedora 43, hyprshot can be installed from the [Hyprland COPR Repository](https://copr.fedorainfracloud.org/coprs/solopasha/hyprland)
 ```bash
 # enable the COPR if you have not already
 sudo dnf copr enable solopasha/hyprland
